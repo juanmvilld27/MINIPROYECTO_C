@@ -1,2 +1,3 @@
 programa que registra las atenciones de una veterinaria 
-se enecuentra enrepositorio
+se encuentra en repositorio
+https://github.com/juanmvilld27/MINIPROYECTO_C
